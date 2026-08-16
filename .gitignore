@@ -1,0 +1,4 @@
+*.db
+auth.json
+auth.lock
+*.lock
