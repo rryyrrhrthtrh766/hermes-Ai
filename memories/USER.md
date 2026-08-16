@@ -1,1 +1,1 @@
-نام: فواد (Foad). زبان ارتباطی: فارسی (Farsi).
+نام: فواد باقری (Foad Bagheri). زبان ارتباطی: فارسی (Farsi) — همیشه فارسی صحبت کن. پلتفرم: Telegram (chat_id: 1319751162). GitHub: rryyrrhrthtrh766. ریپوی بکاپ: https://github.com/rryyrrhrthtrh766/hermes-Ai
