@@ -1,7 +1,0 @@
-*.db
-*.lock
-auth.json
-*.pid
-audio_cache/
-image_cache/
-scripts/
